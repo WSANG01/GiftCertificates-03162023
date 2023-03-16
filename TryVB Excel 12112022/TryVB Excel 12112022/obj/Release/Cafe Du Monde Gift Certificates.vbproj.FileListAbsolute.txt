@@ -1,0 +1,20 @@
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\bin\Release\TryVB Excel 12112022.exe.config
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\bin\Release\TryVB Excel 12112022.exe.manifest
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\bin\Release\TryVB Excel 12112022.application
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\bin\Release\TryVB Excel 12112022.exe
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\bin\Release\TryVB Excel 12112022.pdb
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\bin\Release\TryVB Excel 12112022.xml
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\obj\Release\Cafe Du Monde Gift Certificates.vbproj.ResolveComReference.cache
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\obj\Release\TryVB_Excel_12112022.frmMenu.resources
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\obj\Release\TryVB_Excel_12112022.Sales.resources
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\obj\Release\TryVB_Excel_12112022.Redeem.resources
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\obj\Release\TryVB_Excel_12112022.Reports.resources
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\obj\Release\TryVB_Excel_12112022.Resources.resources
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\obj\Release\Cafe Du Monde Gift Certificates.vbproj.GenerateResource.cache
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\obj\Release\Cafe Du Monde Gift Certificates.vbproj.CoreCompileInputs.cache
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\obj\Release\TryVB Excel 12112022.exe.manifest
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\obj\Release\TryVB Excel 12112022.application
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\obj\Release\TryVB Excel 12112022.exe
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\obj\Release\TryVB Excel 12112022.xml
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\obj\Release\TryVB Excel 12112022.pdb
+C:\Users\bsang\source\repos\TryVB Excel 12112022\TryVB Excel 12112022\obj\Release\TryVB_Excel_12112022.Summary.resources
